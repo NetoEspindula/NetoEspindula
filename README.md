@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 Sobre mim
+# 🥇 Sobre mim
 
 💼 **Gestor de Ecommerce** com experiência em estratégias digitais, análise de dados e crescimento de negócios online.
 
@@ -51,7 +51,7 @@
 
 ---
 
-# 🧠 Tecnologias
+# 💻 Tecnologias
 
 <p align="center">
 
@@ -74,16 +74,6 @@
 # 📈 Gráfico de Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NetoEspindula&theme=tokyo-night"/>
-
----
-
-# 👀 Visitantes
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=NetoEspindula&label=Visualizações&color=blue&style=for-the-badge"/>
-
-</p>
 
 ---
 
