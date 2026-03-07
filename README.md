@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">👋 Olá, Me chame de Neto</h1>
+<h1 align="center">👋 Olá, me chame de Neto</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=700&lines=Gestor+de+Ecommerce;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Desenvolvendo+soluções+digitais+🚀;Sempre+aprendendo+novas+tecnologias">
@@ -10,16 +10,20 @@
 
 # 🚀 Sobre mim
 
-💼 **Gestor de Ecommerce**
-🎓 **Estudante de Engenharia de Software**
+💼 **Gestor de Ecommerce** com experiência em estratégias digitais, análise de dados e crescimento de negócios online.
 
-💡 Interesses: 
+🎓 Atualmente estudo **Engenharia de Software**, aprofundando meus conhecimentos em desenvolvimento de sistemas, arquitetura de software e tecnologias web.
+
+💡 Meu objetivo é **unir negócios e tecnologia**, criando soluções digitais eficientes que automatizem processos, melhorem a tomada de decisão e gerem resultados reais.
+
+⚡ Interesses principais:
 
 * Desenvolvimento Web
 * Automação de processos
-* Tecnologia aplicada ao ecommerce
+* Tecnologia aplicada ao Ecommerce
 * Arquitetura de software
 * Análise de dados
+* Inovação e soluções digitais
 
 ---
 
@@ -29,6 +33,10 @@
 
 <a href="https://linkedin.com/in/valdemar-espindula-neto">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/netoespindula">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/NetoEspindula">
