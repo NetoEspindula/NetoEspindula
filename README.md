@@ -53,18 +53,6 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NetoEspindula&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoEspindula&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <p align="center">
