@@ -3,7 +3,7 @@
 <h1 align="center">👋 Olá, eu sou Valdemar Espíndula Neto</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Gestor+de+Ecommerce;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Desenvolvendo+soluções+digitais+🚀;Sempre+aprendendo+novas+tecnologias">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=700&lines=Gestor+de+Ecommerce;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Desenvolvendo+soluções+digitais+🚀;Sempre+aprendendo+novas+tecnologias">
 </p>
 
 ---
@@ -12,7 +12,6 @@
 
 💼 **Gestor de Ecommerce**
 🎓 **Estudante de Engenharia de Software**
-📍 Brasil
 
 💡 Interesses: 
 
