@@ -14,7 +14,7 @@
 🎓 **Estudante de Engenharia de Software**
 📍 Brasil
 
-💡 Tenho interesse em:
+💡 Interesses: 
 
 * Desenvolvimento Web
 * Automação de processos
@@ -76,25 +76,9 @@
 
 ---
 
-# 🏆 Troféus GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NetoEspindula&theme=tokyonight&no-frame=true&row=1"/>
-
-</p>
-
----
-
 # 📈 Gráfico de Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NetoEspindula&theme=tokyo-night"/>
-
----
-
-# 🐍 Snake comendo commits
-
-![Snake animation](https://github.com/NetoEspindula/NetoEspindula/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
