@@ -1,20 +1,20 @@
-<!-- BANNER / TYPING -->
+<!-- HEADER -->
 
-<h1 align="center">Olá 👋, eu sou Valdemar Espíndula Neto</h1>
+<h1 align="center">👋 Olá, eu sou Valdemar Espíndula Neto</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Gestor+de+Ecommerce;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Sempre+Aprendendo+🚀">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Gestor+de+Ecommerce;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Desenvolvendo+soluções+digitais+🚀;Sempre+aprendendo+novas+tecnologias">
 </p>
 
 ---
 
 # 🚀 Sobre mim
 
-💼 Gestor de Ecommerce
-🎓 Estudante de Engenharia de Software
+💼 **Gestor de Ecommerce**
+🎓 **Estudante de Engenharia de Software**
 📍 Brasil
 
-Interesses:
+💡 Tenho interesse em:
 
 * Desenvolvimento Web
 * Automação de processos
@@ -46,7 +46,7 @@ Interesses:
 
 # 🧠 Tecnologias
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode"/>
 
@@ -76,24 +76,36 @@ Interesses:
 
 ---
 
-# 📂 Projetos em Destaque
+# 🏆 Troféus GitHub
 
-🔹 **Site_Insight**
-Projeto focado em análise e estruturação de informações de sites.
+<p align="center">
 
-🔹 **NetoEspindula**
-Repositório principal do perfil.
-
----
-
-# 👀 Visitantes do perfil
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=NetoEspindula&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NetoEspindula&theme=tokyonight&no-frame=true&row=1"/>
 
 </p>
 
 ---
 
-⭐ **"Tecnologia é a ferramenta para transformar ideias em soluções."**
+# 📈 Gráfico de Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NetoEspindula&theme=tokyo-night"/>
+
+---
+
+# 🐍 Snake comendo commits
+
+![Snake animation](https://github.com/NetoEspindula/NetoEspindula/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Visitantes
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=NetoEspindula&label=Visualizações&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+⭐ **"Tecnologia transforma ideias em soluções."**
