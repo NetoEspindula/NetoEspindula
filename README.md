@@ -12,7 +12,7 @@
 
 💼 **Gestor de Ecommerce** com experiência em estratégias digitais, análise de dados e crescimento de negócios online.
 
-🎓 Atualmente estudo **Engenharia de Software**, aprofundando meus conhecimentos em desenvolvimento de sistemas, arquitetura de software e tecnologias web.
+🎓 Atualmente estudo **Engenharia de Software** na Catolica SC, aprofundando meus conhecimentos em desenvolvimento de sistemas, arquitetura de software e tecnologias web.
 
 💡 Meu objetivo é **unir negócios e tecnologia**, criando soluções digitais eficientes que automatizem processos, melhorem a tomada de decisão e gerem resultados reais.
 
