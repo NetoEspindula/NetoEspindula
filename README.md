@@ -10,7 +10,7 @@
 
 # 🥇 Sobre mim
 
-💼 **Gestor de Ecommerce** com experiência em estratégias digitais, análise de dados e crescimento de negócios online.
+💼 **Diretor de Operações** com experiência em estratégias digitais, análise de dados e crescimento de negócios online.
 
 🎓 Atualmente estudo **Engenharia de Software** na Catolica SC, aprofundando meus conhecimentos em desenvolvimento de sistemas, arquitetura de software e tecnologias web.
 
